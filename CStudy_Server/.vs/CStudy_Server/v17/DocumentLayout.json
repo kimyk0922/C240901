@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cpp\\L240901_Socket\\CStudy_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641DF511-AA7D-4DBC-B0A9-6C477BB54B47}|CStudy_Server\\CStudy_Server.vcxproj|C:\\Cpp\\L240901_Socket\\CStudy_Server\\CStudy_Server\\Server_Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{641DF511-AA7D-4DBC-B0A9-6C477BB54B47}|CStudy_Server\\CStudy_Server.vcxproj|solutionrelative:CStudy_Server\\Server_Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641DF511-AA7D-4DBC-B0A9-6C477BB54B47}|CStudy_Server\\CStudy_Server.vcxproj|C:\\Cpp\\L240901_Socket\\CStudy_Server\\CStudy_Server\\Server_Am.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{641DF511-AA7D-4DBC-B0A9-6C477BB54B47}|CStudy_Server\\CStudy_Server.vcxproj|solutionrelative:CStudy_Server\\Server_Am.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server_Star.cpp",
+              "DocumentMoniker": "C:\\Cpp\\L240901_Socket\\CStudy_Server\\CStudy_Server\\Server_Star.cpp",
+              "RelativeDocumentMoniker": "CStudy_Server\\Server_Star.cpp",
+              "ToolTip": "C:\\Cpp\\L240901_Socket\\CStudy_Server\\CStudy_Server\\Server_Star.cpp",
+              "RelativeToolTip": "CStudy_Server\\Server_Star.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T00:18:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server_Am.cpp",
+              "DocumentMoniker": "C:\\Cpp\\L240901_Socket\\CStudy_Server\\CStudy_Server\\Server_Am.cpp",
+              "RelativeDocumentMoniker": "CStudy_Server\\Server_Am.cpp",
+              "ToolTip": "C:\\Cpp\\L240901_Socket\\CStudy_Server\\CStudy_Server\\Server_Am.cpp",
+              "RelativeToolTip": "CStudy_Server\\Server_Am.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T00:25:12.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
